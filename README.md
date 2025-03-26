@@ -1,16 +1,23 @@
 ## Hi there 👋
 
-<!--
-**Hi-Jen/Hi-Jen** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+👋 Welcome to my GitHub!
 
-Here are some ideas to get you started:
+I'm Hi-Jen, a passionate and aspiring software developer currently in my third year of university.
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+- 🚀 Currently learning: Java and expanding my development skills.
+
+- 🤝 Collaboration: I enjoy working on team projects and collaborating with others.
+
+- 💡 Interests: Web development & entrepreneurship.
+
+- 🔥 Passionate about: Discussing new technologies and exciting projects.
+
+- 🎯 Short-term goal: Becoming a full-stack developer.
+
+- 🚀 Long-term goal: Building my own startup and making it successful.
+
+- 📬 Let's connect!
+- 📧 Email: tv3658@naver.com | 20213032@office.deu.ac.kr
+
+Looking forward to learning, building, and growing together! 🚀🔥
+
