@@ -18,6 +18,6 @@ I'm Hi-Jen, a passionate and aspiring software developer currently in my third y
 
 - 📬 Let's connect!
 - 📧 Email: tv3658@naver.com | 20213032@office.deu.ac.kr
+- 📸 Instagram: @0h._.8.8k
 
 Looking forward to learning, building, and growing together! 🚀🔥
-
