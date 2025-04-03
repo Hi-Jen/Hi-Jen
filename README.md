@@ -20,6 +20,4 @@ I'm YoungHun-Kwon/Hi-Jen, a passionate and aspiring software developer currently
 - 📧 Email: tv3658@naver.com | 20213032@office.deu.ac.kr
 - 📸 Instagram: [@0h._.8.8k](https://www.instagram.com/0h._.8.8k/)
 
-- https://github.com/Hi-Jen/University/tree/74c16d9d7894d03f4a67897993659f283a3a5a85/3%ED%95%99%EB%85%84
-
 Looking forward to learning, building, and growing together! 🚀🔥
