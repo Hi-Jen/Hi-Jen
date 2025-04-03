@@ -1,7 +1,7 @@
 ## Hi there 👋
-
+----------------------------------------------------------------------------------------------------------------
 👋 Welcome to my GitHub!
-
+----------------------------------------------------------------------------------------------------------------
 I'm YoungHun-Kwon/Hi-Jen, a passionate and aspiring software developer currently in my third year of university.
 
 - 🚀 Currently learning: Java and expanding my development skills.
@@ -20,4 +20,4 @@ I'm YoungHun-Kwon/Hi-Jen, a passionate and aspiring software developer currently
 - 📧 Email: tv3658@naver.com | 20213032@office.deu.ac.kr
 - 📸 Instagram: [@0h._.8.8k](https://www.instagram.com/0h._.8.8k/)
 
-Looking forward to learning, building, and growing together! 🚀🔥
+  Looking forward to learning, building, and growing together! 🚀🔥
