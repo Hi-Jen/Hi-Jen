@@ -2,7 +2,7 @@
 
 👋 Welcome to my GitHub!
 
-  😊 I'm YoungHun-Kwon/Hi-Jen, a passionate and aspiring software developer currently in my third year of university. 💻
+  😊 I'm YoungHun-Kwon/Hi-Jen, a passionate and aspiring software developer currently in university. 💻
 
 - 🚀 Currently learning: Java and expanding my development skills.
 
