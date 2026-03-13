@@ -1,12 +1,4 @@
-<!-- 상단 배너 -->
 ![header](https://capsule-render.vercel.app/api?type=waving&color=0:1A2980,100:26D0CE&height=250&section=header&text=Younghun%20Developer&fontSize=50&fontColor=ffffff)
-
-<!-- 타이핑 애니메이션 -->
-<p align="center">
-<img src="https://readme-typing-svg.herokuapp.com?color=00C4FF&size=35&center=true&vCenter=true&width=700&lines=Backend+Developer;Spring+Boot+Developer;React+Learner;Welcome+to+my+GitHub" />
-</p>
-
----
 
 # 👋 Hello I'm Younghun
 
@@ -44,12 +36,6 @@
 # 📈 Contribution Graph
 
 [![Activity Graph](https://github-readme-activity-graph.vercel.app/graph?username=Hi-Jen&theme=tokyo-night)](https://github.com/YOUR_ID)
-
----
-
-# 🐍 Contribution Snake
-
-![snake gif](https://github.com/Hi-Jen/Hi-Jen/blob/output/github-contribution-grid-snake.svg)
 
 ---
 
