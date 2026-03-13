@@ -18,7 +18,7 @@
 <img src="https://skillicons.dev/icons?i=mysql" />
 
 ### Tools
-<img src="https://skillicons.dev/icons?i=git,github,vscode,idea,antigravity,postman" />
+<img src="https://skillicons.dev/icons?i=git,github,vscode,idea,postman" />
 
 ---
 
