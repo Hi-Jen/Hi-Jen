@@ -1,6 +1,4 @@
-![header](https://capsule-render.vercel.app/api?type=waving&color=0:1A2980,100:26D0CE&height=250&section=header&text=Younghun%20Developer&fontSize=50&fontColor=ffffff)
-
-# 👋 Hello I'm Younghun
+![header](https://capsule-render.vercel.app/api?type=waving&color=0:1A2980,100:26D0CE&height=250&section=header&text=Hi!%20I'm Younghun&fontSize=50&fontColor=ffffff)
 
 🚀 **Backend Developer**  
 💻 **Java / Spring Boot**  
