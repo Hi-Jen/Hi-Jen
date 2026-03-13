@@ -1,10 +1,18 @@
-![header](https://capsule-render.vercel.app/api?type=waving&color=0:0f2027,100:2c5364&height=230&section=header&%20Dev&fontSize=45&fontColor=ffffff)
+<!-- 상단 배너 -->
+![header](https://capsule-render.vercel.app/api?type=waving&color=0:1A2980,100:26D0CE&height=250&section=header&text=Younghun%20Developer&fontSize=50&fontColor=ffffff)
 
-# 👋 Hello, I'm Younghun-kwon
+<!-- 타이핑 애니메이션 -->
+<p align="center">
+<img src="https://readme-typing-svg.herokuapp.com?color=00C4FF&size=35&center=true&vCenter=true&width=700&lines=Backend+Developer;Spring+Boot+Developer;React+Learner;Welcome+to+my+GitHub" />
+</p>
 
-🚀 Backend Developer  
-🌱 Currently learning **Spring Boot / React**  
-💡 Interested in **Web Development & AI**
+---
+
+# 👋 Hello I'm Younghun
+
+🚀 **Backend Developer**  
+💻 **Java / Spring Boot**  
+🌱 Currently Learning **React & Cloud**  
 
 ---
 
@@ -20,29 +28,32 @@
 <img src="https://skillicons.dev/icons?i=mysql" />
 
 ### Tools
-<img src="https://skillicons.dev/icons?i=git,github,vscode,idea" />
+<img src="https://skillicons.dev/icons?i=git,github,vscode,idea,postman" />
 
 ---
 
 # 📊 GitHub Stats
 
-![GitHub stats](https://github-readme-stats.vercel.app/api?username=YOUR_ID&show_icons=true&theme=tokyonight)
+<p align="center">
+<img src="https://github-readme-stats.vercel.app/api?username=Hi-Jen&show_icons=true&theme=tokyonight" height="180"/>
+<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Hi-Jen&layout=compact&theme=tokyonight" height="180"/>
+</p>
 
 ---
 
-# 📈 Most Used Language
+# 📈 Contribution Graph
 
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=YOUR_ID&layout=compact&theme=tokyonight)
+[![Activity Graph](https://github-readme-activity-graph.vercel.app/graph?username=Hi-Jen&theme=tokyo-night)](https://github.com/YOUR_ID)
 
 ---
 
-# 🔥 Activity Graph
+# 🐍 Contribution Snake
 
-[![GitHub Activity Graph](https://github-readme-activity-graph.vercel.app/graph?username=YOUR_ID&theme=tokyo-night)](https://github.com/YOUR_ID)
+![snake gif](https://github.com/Hi-Jen/Hi-Jen/blob/output/github-contribution-grid-snake.svg)
 
 ---
 
 # 📫 Contact
 
-📧 Email : tv3658@naver.com
+📧 Email : tv3658@naver.com  
 🐙 GitHub : https://github.com/Hi-Jen
