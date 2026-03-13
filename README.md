@@ -1,4 +1,4 @@
-![header](https://capsule-render.vercel.app/api?type=waving&color=0:0f2027,100:2c5364&height=230&section=header&text=Younghun%20Dev&fontSize=45&fontColor=ffffff)
+![header](https://capsule-render.vercel.app/api?type=waving&color=0:0f2027,100:2c5364&height=230&section=header&%20Dev&fontSize=45&fontColor=ffffff)
 
 # 👋 Hello, I'm Younghun-kwon
 
