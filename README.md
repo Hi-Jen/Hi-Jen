@@ -25,13 +25,6 @@
 ![IntelliJ IDEA](https://img.shields.io/badge/IntelliJ_IDEA-000000?style=flat-square&logo=intellijidea&logoColor=white)
 ![Postman](https://img.shields.io/badge/Postman-FF6C37?style=flat-square&logo=postman&logoColor=white)
 
-
-# 📈 Contribution Graph
-
-[![Activity Graph](https://github-readme-activity-graph.vercel.app/graph?username=Hi-Jen&theme=tokyo-night)](https://github.com/YOUR_ID)
-
----
-
 # 🏆 Awards
 
 > ### **2025년 한국멀티미디어학회 추계학술발표대회**
@@ -43,6 +36,11 @@
 > * **학생우수논문상** 수상 (제 26-100호) 🏅
 > * **논문 제목:** 1인 가구를 위한 골든타임 확보 및 안전망 구축 플랫폼
 > * **수여 기관:** 사단법인 한국정보통신학회 (KIICE)
+---
+# 📈 Contribution Graph
+
+[![Activity Graph](https://github-readme-activity-graph.vercel.app/graph?username=Hi-Jen&theme=tokyo-night)](https://github.com/YOUR_ID)
+
 ---
 
 # 📫 Contact
