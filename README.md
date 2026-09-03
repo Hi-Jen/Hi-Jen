@@ -41,8 +41,12 @@
 [![Activity Graph](https://github-readme-activity-graph.vercel.app/graph?username=Hi-Jen&theme=tokyo-night)](https://github.com/YOUR_ID)
 
 ---
+# 💼 Career
+> ### **㈜모트라스** (울산)
+> * **재직 중** (2026.09.04 ~ ING) 🔧
 
 # 📫 Contact
 
+---
 📧 Email : tv3658@naver.com  
 🐙 Instagram : @Oh._.8.8k
