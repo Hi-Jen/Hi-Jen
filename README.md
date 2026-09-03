@@ -36,17 +36,16 @@
 > * **논문 제목:** 1인 가구를 위한 골든타임 확보 및 안전망 구축 플랫폼
 > * **수여 기관:** 사단법인 한국정보통신학회 (KIICE)
 ---
+# 💼 Career
+> ### **㈜모트라스** (울산)
+> * **재직 중** (2026.09.04 ~ ING) 🔧
+
+---
 # 📈 Contribution Graph
 
 [![Activity Graph](https://github-readme-activity-graph.vercel.app/graph?username=Hi-Jen&theme=tokyo-night)](https://github.com/YOUR_ID)
 
 ---
-# 💼 Career
-> ### **㈜모트라스** (울산)
-> * **재직 중** (2026.09.04 ~ ING) 🔧
-
 # 📫 Contact
-
----
 📧 Email : tv3658@naver.com  
 🐙 Instagram : @Oh._.8.8k
