@@ -47,12 +47,6 @@
 > ### **㈜모트라스** (울산)
 > * **재직 중** (2026.09.04 ~ ING) 🔧
 
-
----
-# 📈 Contribution Graph
-
-[![Activity Graph](https://github-readme-activity-graph.vercel.app/graph?username=Hi-Jen&theme=tokyo-night)](https://github.com/YOUR_ID)
-
 ---
 # 📫 Contact
 📧 Email : tv3658@naver.com  
